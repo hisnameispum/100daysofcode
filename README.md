@@ -1,5 +1,10 @@
 # 100 Days of code journal 
 
+
+
+Day 1-10:  MERN Stack TODO Web app  
+
+
 Day 1 - 10: Flutter Provider Todo list project(1/2)  
 Day 11 - 20: Flutter Provider Todo list project(2/2)  
 Day 21 - 30: MERN Stack+NextJS File Sharing App    
