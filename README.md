@@ -5,8 +5,8 @@
 Day 1-10:  MERN Stack TODO Web app  
 Check in
 Day 1: Leetcode 
-Day 2: CTI Lab contribution
-Day 3: CTI Lab contribution
+Day 2: CTI Lab contribution. 
+Day 3: CTI Lab contribution. 
 
 
 Day 1 - 10: Flutter Provider Todo list project(1/2)  
