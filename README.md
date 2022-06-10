@@ -2,11 +2,14 @@
 
 
 
-Day 1-10:  MERN Stack TODO Web app. 
-Check in.  
+  
 Day 1: Leetcode.  
 Day 2-11: CTI Lab contribution.  
 
+🎯 Milestone:
+[X]CTI 101 Course
+[X]CTI 201 Course
+[]CTI 202 Course
 
 
 Day 1 - 10: Flutter Provider Todo list project(1/2)  
