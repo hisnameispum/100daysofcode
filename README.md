@@ -4,7 +4,7 @@
 
   
 Day 1: Leetcode.  
-Day 2-11: CTI Lab contribution.  
+Day 2-12: CTI Lab contribution.  
 
 🎯 Milestone:  
 [X]CTI 101 Course  
