@@ -2,7 +2,7 @@
 
 
 
-🏃Progress:
+🏃Progress:  
 Day 1: Leetcode.  
 Day 2-5: 101 Course  
 Day 6-8: 201 Course  
