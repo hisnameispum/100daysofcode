@@ -2,14 +2,14 @@
 
 
 
-##🏃Progress:  
+## 🏃Progress:  
 Day 1: Leetcode.  
 Day 2-5: 101 Course  
 Day 6-8: 201 Course  
 Day 9-12: 202 Course  
 Day 13: 402 Course
 
-##🎯 Milestone:  
+## 🎯 Milestone:  
 [X]CTI 101 Course  
 [X]CTI 201 Course  
 [X]CTI 202 Course  
