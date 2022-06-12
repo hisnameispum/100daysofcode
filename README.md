@@ -2,14 +2,18 @@
 
 
 
-  
+🏃Progress:
 Day 1: Leetcode.  
-Day 2-12: CTI Lab contribution.  
+Day 2-5: 101 Course  
+Day 6-8: 201 Course  
+Day 9-12: 202 Course  
+Day 13: 402 Course
 
 🎯 Milestone:  
 [X]CTI 101 Course  
 [X]CTI 201 Course  
-[]CTI 202 Course  
+[X]CTI 202 Course  
+[] CTI 402 Course
 
 
 Day 1 - 10: Flutter Provider Todo list project(1/2)  
