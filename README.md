@@ -8,6 +8,7 @@ Day 2-5: 101 Course
 Day 6-8: 201 Course  
 Day 9-12: 202 Course  
 Day 13: 402 Course
+Day 14: 301 Course
 
 ## 🎯 Milestone:  
 [X]CTI 101 Course  
