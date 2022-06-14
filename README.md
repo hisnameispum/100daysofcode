@@ -8,13 +8,14 @@ Day 2-5: 101 Course
 Day 6-8: 201 Course  
 Day 9-12: 202 Course  
 Day 13: 402 Course  
-Day 14: 301 Course  
+Day 14-15: 301 Course  
 
 ## 🎯 Milestone:  
 [X]CTI 101 Course  
 [X]CTI 201 Course  
 [X]CTI 202 Course  
-[] CTI 402 Course
+[X]CTI 402 Course Module 1 & 2
+[]CTI 301 Course
 
 ###Plan
 Day 1 - 10: Flutter Provider Todo list project(1/2)  
