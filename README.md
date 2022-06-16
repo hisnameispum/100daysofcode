@@ -15,7 +15,7 @@ Day 16: Supernova Hackathon
 [X]CTI 101 Course  
 [X]CTI 201 Course  
 [X]CTI 202 Course  
-[X]CTI 402 Course Module 1 & 2
+[X]CTI 402 Course Module 1 & 2. 
 [X]CTI 301 Course. 
 
 ###Plan
