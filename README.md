@@ -17,7 +17,7 @@ Day 17: Doordash Mock Interview
 [X]CTI 201 Course  
 [X]CTI 202 Course  
 [X]CTI 402 Course Module 1 & 2.   
-[X]CTI 301 Course. 
+[X]CTI 301 Course.  
 [] Supernova Hackathon  
 
 ###Plan
