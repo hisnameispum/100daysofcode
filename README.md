@@ -21,6 +21,7 @@ Day 18-20: Supernova Hackathon.
 [X]CTI 402 Course Module 1 & 2.   
 [X]CTI 301 Course.  
 [] Supernova Hackathon  
+[] CTI 402
 
 ###Plan
 Day 1 - 10: Flutter Provider Todo list project(1/2)  
