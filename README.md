@@ -12,7 +12,9 @@ Day 14-15: 301 Course
 Day 16: Supernova Hackathon  
 Day 17: Doordash Mock Interview  
 Day 18-20: Supernova Hackathon.  
-Day 21: CTI Module 3
+Day 21: CTI Module 3 A & B
+Day 22: CTI Module 3 C & D
+
 
 
 ## 🎯 Milestone:  
