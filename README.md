@@ -12,6 +12,7 @@ Day 14-15: 301 Course
 Day 16: Supernova Hackathon  
 Day 17: Doordash Mock Interview  
 Day 18-20: Supernova Hackathon.  
+Day 21: CTI Module 3
 
 
 ## 🎯 Milestone:  
@@ -20,8 +21,7 @@ Day 18-20: Supernova Hackathon.
 [X]CTI 202 Course  
 [X]CTI 402 Course Module 1 & 2.   
 [X]CTI 301 Course.  
-[] Supernova Hackathon  
-[] CTI 402
+[] CTI 402 Module 3 & 4
 
 ###Plan
 Day 1 - 10: Flutter Provider Todo list project(1/2)  
