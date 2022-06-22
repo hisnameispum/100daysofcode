@@ -14,7 +14,7 @@ Day 17: Doordash Mock Interview
 Day 18-20: Supernova Hackathon.  
 Day 21: CTI Module 3 A & B.  
 Day 22: CTI Module 3 C & D.  
-Day 23: CTI Module 4 A & B & C & D
+Day 23: CTI Module 4 A & B & C & D & E
 
 
 
@@ -24,7 +24,7 @@ Day 23: CTI Module 4 A & B & C & D
 [X]CTI 202 Course  
 [X]CTI 402 Course Module 1 & 2.   
 [X]CTI 301 Course.  
-[] CTI 402 Module 3 & 4
+[X] CTI 402 Module 3 & 4
 
 ###Plan
 Day 1 - 10: Flutter Provider Todo list project(1/2)  
