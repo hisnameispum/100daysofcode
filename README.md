@@ -25,7 +25,8 @@ Day 24: Leetcode
 [X]CTI 202 Course  
 [X]CTI 402 Course Module 1 & 2.   
 [X]CTI 301 Course.  
-[X] CTI 402 Module 3 & 4
+[X] CTI 402 Module 3 & 4  
+[]EPI Array(39-69)
 
 ###Plan
 Day 1 - 10: Flutter Provider Todo list project(1/2)  
