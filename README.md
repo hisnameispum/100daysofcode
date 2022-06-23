@@ -15,6 +15,7 @@ Day 18-20: Supernova Hackathon.
 Day 21: CTI Module 3 A & B.  
 Day 22: CTI Module 3 C & D.  
 Day 23: CTI Module 4 A & B & C & D & E
+Day 24: Leetcode
 
 
 
