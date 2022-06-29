@@ -16,7 +16,9 @@ Day 21: CTI Module 3 A & B.
 Day 22: CTI Module 3 C & D.  
 Day 23: CTI Module 4 A & B & C & D & E.  
 Day 24-27: Leetcode.  
-Day 28: Set up for Code Day Labs
+Day 28: Set up for Code Day Labs.  
+Day 29: Learn Docker and TypeScript.  
+Day 30: Learn more TypeScript.   
 
 
 ## 🎯 Milestone:  
