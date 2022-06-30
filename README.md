@@ -29,7 +29,8 @@ Day 31: Learn TypeScript
 [X]CTI 402 Course Module 1 & 2.   
 [X]CTI 301 Course.  
 [X] CTI 402 Module 3 & 4  
-[] Programmig with Mosh.  
+[] Finish https://www.youtube.com/watch?v=NjN00cM18Z4.   
+[] Finish https://www.youtube.com/watch?v=jrKcJxF0lAU.  
 []EPI Array(39-69)
 
 ###Plan
