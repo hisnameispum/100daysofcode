@@ -19,6 +19,7 @@ Day 24-27: Leetcode.
 Day 28: Set up for Code Day Labs.  
 Day 29: Learn Docker and TypeScript.  
 Day 30: Learn more TypeScript.   
+Day 31: Learn TypeScript
 
 
 ## 🎯 Milestone:  
