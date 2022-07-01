@@ -30,8 +30,8 @@ Day 32: Learn React
 [X]CTI 402 Course Module 1 & 2.   
 [X]CTI 301 Course.  
 [X] CTI 402 Module 3 & 4  
-[X] Finish https://www.youtube.com/watch?v=NjN00cM18Z4. 
-[] Udemy React course section 3
+[X] Finish https://www.youtube.com/watch?v=NjN00cM18Z4.  
+[] Udemy React course section 3.  
 []EPI Array(39-69)
 
 ###Plan
