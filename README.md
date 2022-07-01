@@ -19,7 +19,8 @@ Day 24-27: Leetcode.
 Day 28: Set up for Code Day Labs.  
 Day 29: Learn Docker and TypeScript.  
 Day 30: Learn more TypeScript.   
-Day 31: Learn TypeScript
+Day 31: Learn TypeScript.  
+Day 32: Learn React
 
 
 ## 🎯 Milestone:  
@@ -29,8 +30,8 @@ Day 31: Learn TypeScript
 [X]CTI 402 Course Module 1 & 2.   
 [X]CTI 301 Course.  
 [X] CTI 402 Module 3 & 4  
-[] Finish https://www.youtube.com/watch?v=NjN00cM18Z4.   
-[] Finish https://www.youtube.com/watch?v=jrKcJxF0lAU.  
+[X] Finish https://www.youtube.com/watch?v=NjN00cM18Z4. 
+[] Udemy React course section 3
 []EPI Array(39-69)
 
 ###Plan
