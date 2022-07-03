@@ -21,6 +21,7 @@ Day 29: Learn Docker and TypeScript.
 Day 30: Learn more TypeScript.   
 Day 31: Learn TypeScript.  
 Day 32: Learn React
+Day 33: Leetcode
 
 
 ## 🎯 Milestone:  
