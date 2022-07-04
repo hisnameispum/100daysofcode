@@ -35,6 +35,10 @@ Day 34-35: Learn React
 [X] Finish https://www.youtube.com/watch?v=NjN00cM18Z4.  
 [] Udemy React course section 3.  
 []EPI Array(39-69)
+### [] Udemy React Course.  
+[X] Module 1.  
+[X] Module 2.  
+[] Module 3.  
 
 ###Plan
 Day 1 - 10: Flutter Provider Todo list project(1/2)  
