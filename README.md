@@ -22,7 +22,7 @@ Day 30: Learn more TypeScript.
 Day 31: Learn TypeScript.  
 Day 32: Learn React.  
 Day 33: Leetcode.  
-Day 34: Learn React
+Day 34-35: Learn React
 
 
 ## 🎯 Milestone:  
