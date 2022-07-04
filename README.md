@@ -42,11 +42,3 @@ Day 34-35: Learn React
 ### Elements of Programming Interview
 [] Array(39-69)
 
-###Plan
-Day 1 - 10: Flutter Provider Todo list project(1/2)  
-Day 11 - 20: Flutter Provider Todo list project(2/2)  
-Day 21 - 30: MERN Stack+NextJS File Sharing App    
-Day 31 - 40: MERN Stack TODO Web app  
-Day 41 - 50: Blog Website  
-Day 51 - 60: Admin Website  
-Day 61 - 100: Leetcode  
