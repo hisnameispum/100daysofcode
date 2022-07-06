@@ -44,9 +44,15 @@ Day 37: Learn GraphQL
 ### Elements of Programming Interview
 [] Array(39-69)
 
-## Fullstack Development with Prisma
+### Fullstack Development with Prisma
 [X] Part 1.  
 [] Part 2  
 [] Part 3.  
 [] Part 4.  
 [] Part 5.  
+
+
+# Journals:
+
+## Day 37:
+Ran into a problem with Postgres, it seems like I cannot create superusers with Heroku, I have to set up local environment instead. Won't take too long.
