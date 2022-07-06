@@ -22,7 +22,9 @@ Day 30: Learn more TypeScript.
 Day 31: Learn TypeScript.  
 Day 32: Learn React.  
 Day 33: Leetcode.  
-Day 34-35: Learn React
+Day 34-35: Learn React.  
+Day 36: Learn Prisma.  
+Day 37: Learn GraphQL
 
 
 ## 🎯 Milestone:  
@@ -37,7 +39,7 @@ Day 34-35: Learn React
 ### Udemy React Course.  
 [X] Module 1.  
 [X] Module 2.  
-[] Module 3.  
+
 
 ### Elements of Programming Interview
 [] Array(39-69)
