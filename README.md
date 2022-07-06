@@ -44,3 +44,9 @@ Day 37: Learn GraphQL
 ### Elements of Programming Interview
 [] Array(39-69)
 
+## Fullstack Development with Prisma
+[X] Part 1.  
+[] Part 2  
+[] Part 3.  
+[] Part 4.  
+[] Part 5.  
