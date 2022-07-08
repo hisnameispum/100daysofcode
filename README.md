@@ -25,7 +25,8 @@ Day 33: Leetcode.
 Day 34-35: Learn React.  
 Day 36: Learn Prisma.  
 Day 37: Learn GraphQL.  
-Day 38: Learn GraphQL
+Day 38: Learn GraphQL.  
+Day 39: Code Day Labs 
 
 
 ## 🎯 Milestone:  
