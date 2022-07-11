@@ -27,7 +27,7 @@ Day 36: Learn Prisma.
 Day 37: Learn GraphQL.  
 Day 38: Learn GraphQL.  
 Day 39: Code Day Labs  
-Day 40-41: Leet code.
+Day 40-41: Leet code.   
 Day 42: Code Day Labs, Google Mock Interview
 
 
