@@ -30,8 +30,8 @@ Day 39: Code Day Labs
 Day 40-41: Leet code.   
 Day 42: Code Day Labs, Google Mock Interview.  
 Day 43-46: Code Day Labs   
-Day 47: Leetcode
-Day 48: CTI Week 3 Reports
+Day 47: Leetcode   
+Day 48: CTI Week 3 Reports. 
 
 
 ## 🎯 Milestone:  
