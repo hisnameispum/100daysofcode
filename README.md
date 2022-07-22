@@ -33,7 +33,7 @@ Day 43-46: Code Day Labs
 Day 47: Leetcode   
 Day 48: CTI Week 3 Reports.  
 Day 49: Learn Tailwind CSS.  
-Day 50-52: Code Day Labs
+Day 50-53: Code Day Labs
 
 
 ## 🎯 Milestone:  
@@ -64,4 +64,7 @@ Day 50-52: Code Day Labs
 # Journals:
 
 ## Day 37:
-Ran into a problem with Postgres, it seems like I cannot create superusers with Heroku, I have to set up local environment instead. Won't take too long.
+Ran into a problem with Postgres, it seems like I cannot create superusers with Heroku, I have to set up local environment instead. Won't take too long.   
+
+## Day 53:
+Came across a problem for Tailwind.css with Chapter. Solved it with https://github.com/tailwindlabs/tailwindcss/issues/6393
