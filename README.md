@@ -33,7 +33,8 @@ Day 43-46: Code Day Labs
 Day 47: Leetcode   
 Day 48: CTI Week 3 Reports.  
 Day 49: Learn Tailwind CSS.  
-Day 50-53: Code Day Labs
+Day 50-53: Code Day Labs   
+Day 54: Leetcode, LeadGo
 
 
 ## 🎯 Milestone:  
