@@ -71,3 +71,7 @@ Ran into a problem with Postgres, it seems like I cannot create superusers with 
 
 ## Day 53:
 Came across a problem for Tailwind.css with Chapter. Solved it with https://github.com/tailwindlabs/tailwindcss/issues/6393
+
+## Day 57:
+Faced with problem between Tailwind and Storybook. Solved it with 
+tailwindlabs/tailwindcss#6314
