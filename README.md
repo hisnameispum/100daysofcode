@@ -35,7 +35,8 @@ Day 48: CTI Week 3 Reports.
 Day 49: Learn Tailwind CSS.  
 Day 50-53: Code Day Labs   
 Day 54-55: Leetcode, LeadGo   
-Day 56-61: Code Day Labs    
+Day 56-60: Code Day Labs  
+Day 61: LeadGo, Leetcode
 
 
 
