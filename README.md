@@ -36,7 +36,8 @@ Day 49: Learn Tailwind CSS.
 Day 50-53: Code Day Labs   
 Day 54-55: Leetcode, LeadGo   
 Day 56-60: Code Day Labs  
-Day 61: LeadGo, Leetcode
+Day 62: LeadGo, Leetcode  
+Day 63: CodeDay Labs, Leetcode
 
 
 
