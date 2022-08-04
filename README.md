@@ -65,15 +65,23 @@ Day 63-66: CodeDay Labs, Leetcode
 [] Part 4.  
 [] Part 5.  
 
+## Chapter
+[X] Set up projects. 
+[X] Margin issue  
+[X] Flex Component.  
+[X] Spacer Component.  
 
-# Journals:
+## Resouces:
+[Git Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
-## Day 37:
+## Journals:
+
+### Day 37:
 Ran into a problem with Postgres, it seems like I cannot create superusers with Heroku, I have to set up local environment instead. Won't take too long.   
 
-## Day 53:
+### Day 53:
 Came across a problem for Tailwind.css with Chapter. Solved it with https://github.com/tailwindlabs/tailwindcss/issues/6393
 
-## Day 57:
+### Day 57:
 Faced with problem between Tailwind and Storybook. Solved it with 
 tailwindlabs/tailwindcss#6314
