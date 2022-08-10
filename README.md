@@ -68,8 +68,8 @@ Day 70-72: CodeDay Labs, Leetcode
 [] Part 5.  
 
 ## Chapter
-[X] Set up projects. 
-[X] Margin issue  
+[X] Set up projects.  
+[X] Margin issue.      
 [X] Flex Component.  
 [X] Spacer Component.  
 
