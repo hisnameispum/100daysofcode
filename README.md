@@ -39,7 +39,7 @@ Day 56-60: Code Day Labs
 Day 62: LeadGo, Leetcode  
 Day 63-67: CodeDay Labs, Leetcode   
 Day 68-69: Leetcode.   
-Day 70-72: CodeDay Labs, Leetcode
+Day 70-73: CodeDay Labs, Leetcode
 
 
 
@@ -62,10 +62,6 @@ Day 70-72: CodeDay Labs, Leetcode
 
 ### Fullstack Development with Prisma
 [X] Part 1.  
-[] Part 2  
-[] Part 3.  
-[] Part 4.  
-[] Part 5.  
 
 ## Chapter
 [X] Set up projects.  
@@ -73,6 +69,11 @@ Day 70-72: CodeDay Labs, Leetcode
 [X] Flex Component.  
 [X] Spacer Component.  
 
+## Neetcode 150
+[X]Array & Hashing    
+[X]Two Pointers    
+[X]Sliding Window  
+[X]Stack  
 ## Resouces:
 [Git Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
