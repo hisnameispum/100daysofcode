@@ -39,7 +39,9 @@ Day 56-60: Code Day Labs
 Day 62: LeadGo, Leetcode  
 Day 63-67: CodeDay Labs, Leetcode   
 Day 68-69: Leetcode.   
-Day 70-74: CodeDay Labs, Leetcode
+Day 70-73: CodeDay Labs, Leetcode  
+Day 74: CodeDay, Leetcode, Samsung Quiz  
+Day 75: Leetcode
 
 
 
