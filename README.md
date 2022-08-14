@@ -1,5 +1,6 @@
 # 100 Days of code journal 
 
+> Success is the sum of small efforts repeated day in and day out.
 
 
 ## 🏃Progress:  
