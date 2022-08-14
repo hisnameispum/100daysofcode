@@ -77,6 +77,8 @@ Day 75-76: Leetcode
 [X]Two Pointers    
 [X]Sliding Window  
 [X]Stack  
+[X]Binary Search
+
 ## Resouces:
 [Git Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
