@@ -42,7 +42,7 @@ Day 63-67: CodeDay Labs, Leetcode
 Day 68-69: Leetcode.   
 Day 70-73: CodeDay Labs, Leetcode  
 Day 74: CodeDay, Leetcode, Samsung Quiz  
-Day 75-76: Leetcode
+Day 75-76: Leetcode.  
 Day 77: Decorator, Cypress, JP Morgan
 
 
