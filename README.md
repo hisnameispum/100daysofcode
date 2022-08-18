@@ -45,7 +45,7 @@ Day 74: CodeDay, Leetcode, Samsung Quiz
 Day 75-76: Leetcode.  
 Day 77: Decorator, Cypress, JP Morgan.  
 Day 78: UI Issue, Linkedlist   
-Day 79: Decorator, Linkedlist
+Day 79: Decorator, Linkedlist   
 Day 80: Linkedlist, Cypress, Set up Saru Web
 
 
