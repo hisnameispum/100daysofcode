@@ -49,7 +49,8 @@ Day 79: Decorator, Linkedlist
 Day 80: Linkedlist, Cypress, Set up Saru Web  
 Day 81: Saru Web.  
 Day 82: Wrapping up CodeDay Internship, Leetcode(Recursion)   
-Day 83: Leetcode Amazon
+Day 83: Leetcode Amazon.  
+Day 84: Leetcode, UI issue
 
 
 
