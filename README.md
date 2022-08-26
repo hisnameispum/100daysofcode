@@ -52,7 +52,8 @@ Day 82: Wrapping up CodeDay Internship, Leetcode(Recursion)
 Day 83: Leetcode Amazon.  
 Day 84-85: Leetcode, UI issue.  
 Day 86: Tree questions.   
-Day 87: Saru Web
+Day 87: Saru Web.  
+Day 88: Python scripting works.
 
 
 
