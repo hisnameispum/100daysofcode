@@ -53,7 +53,8 @@ Day 83: Leetcode Amazon.
 Day 84-85: Leetcode, UI issue.  
 Day 86: Tree questions.   
 Day 87: Saru Web.  
-Day 88: Python scripting works.
+Day 88: Python scripting works.  
+Day 89: Leetcode
 
 
 
