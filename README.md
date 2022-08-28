@@ -95,6 +95,7 @@ Day 89: Leetcode
 [Git Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)  
 [Cypress](https://learn.cypress.io/)  
 [GraphQL](https://www.apollographql.com/tutorials/fullstack-quickstart/)  
+[NextJS](https://egghead.io/courses/fundamental-next-js-api-and-patterns-a6a7509f)
 
 
 ## Journals:
