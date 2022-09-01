@@ -55,7 +55,8 @@ Day 86: Tree questions.
 Day 87: Saru Web.  
 Day 88: Python scripting works.  
 Day 89-92: Leetcode.   
-Day 93: Nurtureland.io authentication
+Day 93: Nurtureland.io authentication   
+Day 94: Publishing app
 
 
 
