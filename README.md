@@ -57,7 +57,8 @@ Day 88: Python scripting works.
 Day 89-92: Leetcode.   
 Day 93: Nurtureland.io authentication   
 Day 94: Publishing app   
-Day 95-96: Saru Web
+Day 95-96: Saru Web.  
+Day 97: Prep for Google APM
 
 
 
