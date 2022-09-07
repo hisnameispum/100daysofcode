@@ -59,7 +59,7 @@ Day 93: Nurtureland.io authentication
 Day 94: Publishing app   
 Day 95-96: Saru Web.  
 Day 97-98: Prep for Google APM   
-Day 99: Prep for PM roles
+Day 99-100: Prep for PM roles
 
 
 
