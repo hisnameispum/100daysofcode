@@ -6,9 +6,9 @@
 #### Day 1: Flutter set up on macOS.  
 #### Day 2: Flutter migration for Nurtureland, fixed bugs.   
 #### Day 3: Firebase integration.
-Messed up iOS Config, will fix later.
+- Messed up iOS Config, will fix later.
 #### Day 4: Debug Google Sign in.
-Reverted back to make things work.
+- Reverted back to make things work.
 
 
 ### 👨🏻‍💻 To learn
