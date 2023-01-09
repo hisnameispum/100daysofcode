@@ -10,6 +10,8 @@
 #### Day 4: Debug Google Sign in.
 - Reverted back to make things work.
 
+### 🥋 Todo
+[] Work on User Auth module  
 
 ### 👨🏻‍💻 To learn
 [] Flutter StreamBuilder.  
