@@ -2,6 +2,9 @@
 
 ## 🎯 Goal : Publish my own app, focus on refreshing Flutter and Firebase concepts. 
 
+### 🥋 Todo
+[] Work on User Auth module  
+
 ### 🏃🏻‍♂️Progress: 
 #### Day 1: Flutter set up on macOS.  
 #### Day 2: Flutter migration for Nurtureland, fixed bugs.   
@@ -10,8 +13,7 @@
 #### Day 4: Debug Google Sign in.
 - Reverted back to make things work.
 
-### 🥋 Todo
-[] Work on User Auth module  
+
 
 ### 👨🏻‍💻 To learn
 [] Flutter StreamBuilder.  
