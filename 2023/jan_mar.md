@@ -6,6 +6,7 @@
 Day 1: Flutter set up on macOS.  
 Day 2: Flutter migration for Nurtureland, fixed bugs.   
 Day 3: Firebase integration.
+Day 4: Debug Google Sign in.
 
 ### 🐞 Challenges and solutions
 
