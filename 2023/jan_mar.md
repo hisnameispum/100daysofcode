@@ -8,6 +8,11 @@ Day 2: Flutter migration for Nurtureland, fixed bugs.
 Day 3: Firebase integration.
 Day 4: Debug Google Sign in.
 
+### 👨🏻‍💻 To learn
+[] Flutter StreamBuilder.  
+[] Flutter Firebase.  
+[] Firebase Google Signin.  
+
 ### 🐞 Challenges and solutions
 
 
