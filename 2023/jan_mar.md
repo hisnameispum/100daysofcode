@@ -17,7 +17,11 @@
 
 ### 👨🏻‍💻 To learn
 [] Flutter StreamBuilder.  
-[] Flutter Firebase.  
+[] Flutter Firebase. 
+https://www.youtube.com/watch?v=Dh-cTQJgM-Q.   
+https://www.youtube.com/watch?v=qlVj-0vpaW0.  
+https://www.youtube.com/watch?v=_3W-JuIVFlg.   
+https://www.youtube.com/watch?v=1U8_Mq1QdX4.   
 [] Firebase Google Signin.  
 
 ### 🐞 Challenges and solutions
