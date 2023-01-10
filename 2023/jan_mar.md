@@ -12,7 +12,7 @@
 - Messed up iOS Config, will fix later.  
 #### Day 4: Debug Google Sign in.
 - Reverted back to make things work.
-
+#### Day 5: Start working on Next JS Firebase Auth, wrapping up Saru project
 
 
 ### 👨🏻‍💻 To learn
