@@ -14,7 +14,7 @@
 - Reverted back to make things work.
 #### Day 5: Start working on Next JS Firebase Auth, wrapping up Saru project
 #### Day 6: Watch Firebase Next JS Tutorial(https://youtu.be/UzMr7-0FgA0)
-
+#### Day 7: Three JS Tutorials.
 
 ### 👨🏻‍💻 To learn
 [] Flutter StreamBuilder.  
